@@ -1,6 +1,6 @@
 # Python_Turtle_Graphics
 ### Exploration of Python Turtle:
-Python Turtle is a respository of functions, in this code, I used Python Turtle to create different shapes and figures.
+Python Turtle is a type of computer graphics called Turtle Graphics. Python Turtle uses a relative cursor(the turtle) to draw or pring words. In this project, I used Python Turtle to create different shapes and figures.
 In this project, I made square spirals, rosettes and complex figures. <br>
 
 #### References:
