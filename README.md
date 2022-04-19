@@ -1,7 +1,6 @@
 # Python_Turtle_Graphics
 ### Exploration of Python Turtle:
-Python Turtle is a type of computer graphics called Turtle Graphics. Python Turtle uses a relative cursor(the turtle) to draw or pring words. In this project, I used Python Turtle to create different shapes and figures.
-In this project, I made square spirals, rosettes and complex figures. <br>
+Python Turtle is a type of computer graphics called Turtle Graphics. Python Turtle uses a relative cursor(the turtle) to draw or to print words. In this project, I used Python Turtle to create different shapes and figures.
 
 #### References:
 1) RGB Color Codes Chart: https://www.rapidtables.com/web/color/RGB_Color.html 
@@ -13,10 +12,12 @@ In this project, I made square spirals, rosettes and complex figures. <br>
   * Square Spiral
   * QuadriColor Square Spiral
 
-* Circle
+* Circle Figures
   * Circles
   * Rosette
   * Circle Spiral
+
+* Multi-Sided Figures
 
 #### Code Examples:
 1) Circle: 
