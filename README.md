@@ -9,14 +9,14 @@ In this project, I made square spirals, rosettes and complex figures. <br>
 
 #### Figures Created:
 * Square Figures
-  * 1) Simple Square
-  * 2) Square Soiral
-  * 3) QuadriColor Square Spiral
+  * Simple Square
+  * Square Soiral
+  * QuadriColor Square Spiral
 
 * Circle
-   * 1) Circles
-   * 2) Rosette
-   * 3) Circle Spiral
+  * Circles
+  * Rosette
+  * Circle Spiral
 
 #### Code Examples:
 1) Circle: 
