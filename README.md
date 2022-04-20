@@ -7,16 +7,8 @@ Python Turtle is a type of computer graphics called Turtle Graphics. Python Turt
 2) Python Library: https://docs.python.org/3/library/turtle.html
 
 #### Figures Created:
-* Square Figures
-  * Simple Square
-  * Square Spiral
-  * QuadriColor Square Spiral
-
-* Circle Figures
-  * Circles
-  * Rosette
-  * Circle Spiral
-
+* Square Figures: Simple Square, Square Spiral, QuadriColor Square Spiral
+* Circle Figures: Circles, Rosette, Circle Spiral
 * Multi-Sided Figures
 
 #### Code Examples:
@@ -33,4 +25,4 @@ for _ in range(10):
 
 #### Image Examples:
 <img src="https://github.com/CelestialMoonrise/Python_Turtle_Graphics/blob/main/Python%20Turtle%20Graphics%202022_4_19%20%E4%B8%8A%E5%8D%88%2009_56_01.png" width=200, height=200 alt="Rosette"> 
-<img src="https://github.com/CelestialMoonrise/Python_Turtle_Graphics/blob/main/Python%20Turtle%20Graphics%202022_4_19%20%E4%B8%8A%E5%8D%88%2010_30_04.png" width=200,height=200 alt="QuadriColor Spiral">
+<img src="https://github.com/CelestialMoonrise/Python_Turtle_Graphics/blob/main/Python%20Turtle%20Graphics%202022_4_19%20%E4%B8%8A%E5%8D%88%2010_30_04.png" width=200,height=200 alt="QuadriColor Spiral"> 
