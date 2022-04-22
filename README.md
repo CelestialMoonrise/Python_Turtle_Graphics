@@ -1,6 +1,6 @@
 # Python_Turtle_Graphics
 ### Exploration of Python Turtle:
-Python Turtle is a type of computer graphics called Turtle Graphics. Python Turtle uses a relative cursor(the turtle) to draw or to print words. In this project, I used Python Turtle to create different shapes and figures.
+Python Turtle is a type of computer graphics called Turtle Graphics. Python Turtle uses a relative cursor(the turtle) to draw or to print words. In this project, I used Python Turtle to create different shapes and figures, I also created an apple catching game using Python Turtle and I was ultimately able to create a clock.
 
 #### References:
 1) RGB Color Codes Chart: https://www.rapidtables.com/web/color/RGB_Color.html 
@@ -9,20 +9,20 @@ Python Turtle is a type of computer graphics called Turtle Graphics. Python Turt
 #### Figures Created:
 * Square Figures: Simple Square, Square Spiral, QuadriColor Square Spiral
 * Circle Figures: Circles, Rosette, Circle Spiral
-* Multi-Sided Complex Figures
+* Multi-Sided Complex Figures(Sunflower, Rubber Band Ball...)
+
+#### Related Projects:
+* Apple Catching Game
+* Clock with Date and Time
 
 #### Code Examples:
-1) Circle: 
-~~~python
-turtle.circle(r) #r: radius
-~~~
-2) Rosette:
+1) Rosette:
 ~~~python
 for _ in range(10):
   turtle.circle(60) #radius of 60px
   turtle.left(36)
 ~~~
-3) Rubber Band Ball with randomized colors!:
+2) Rubber Band Ball with randomized colors!:
 ~~~python
 import turtle
 import random #Used to randomize the colors
